@@ -1,0 +1,120 @@
+<HTML >
+<head>
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+<title>Mi biografia</title>
+
+
+</head>
+<body 
+   bgcolor="green" >
+
+
+      
+          <img  src="bj.jpg" width="150" height="150" />
+          
+          <div center>
+            <h1 class="name">Brandon Jonathan <br />
+              <span>Biografia</span></h1>
+            
+          </div>
+          
+        </div>
+      
+        <div >
+          <h2>NACIMIENTO</h2>
+          <p>Nací el 8 de noviembre de 1998 en San Luis Potosí. Soy hijo de Araceli Salazar Martinez y Marcelo Castro Fragoso.</p>
+        </div>
+        
+        <div >
+          <h2>Educacion</h2>
+          <div >
+            <h3>2004 - 2010</h3>
+            <p>Escuela primaria Dr Gustavo Baz Prada, Los reyes Acaquilpan <br />
+              
+          </div>
+          <div >
+            <h3>2010 - 2013</h3>
+            <p>Escuela secundaria oficial No 0880 Francisco Gonzalez Bocanegra, La paz Edo Mex <br />
+              </p>
+          </div>
+        </div>
+      <div >
+            <h3>2013 - 2016</h3>
+            <p>Colegio de Estudios Cientificos y Tecnologico del Estado de Mexico, La paz<br />
+              <em>Técnico en programacion</em></p>
+          </div>
+
+
+        <div >
+          <h2>Trabajos en mi vida</h2>
+          <div >
+            <h3>Octubre del 2017 a Agosto del 2018</h3>
+            <p>Empresa ATT<br />
+              <em>Portabilidades</em></p>
+            <ul >
+              <li>Este traabajo consistia en ir de casa en casa a ofrecer a las personas protabilidad sin costo alguno a la compañia att en ese mismo momento y con saldo gratis.</li>
+              <li>He de admitir que la paga era demasiado buena, pudiendo ganar hasta  7 mil a la semana, pero sí requería de tiempo completo al dia para poder trabajar</li>
+            </ul>
+          </div>
+          <div >
+            
+        </div>
+        
+        <div >
+          <h2>Habilidades</h2>
+          <div >
+            <h3>Manejo de softwares</h3>
+            <ul >
+              <li>Photoshop</li>
+              <li>Pinnacle studio Professional</li>
+              <li>App Inventor</li>
+              <li>Blender</li>
+              
+            </ul>
+          </div>
+          <div >
+            <h3>Lenguajes de programacion</h3>
+            <ul >
+              <li>CSS/HTML</li>
+              <li>PHP</li>
+              <li>JavaScript</li>
+              <li>Java</li>
+              <li>Androdi</li>
+              <li>C++</li>
+            </ul>
+          </div>
+        </div>
+       <div >
+          <h2>Pasatiempos favoritos</h2>
+          <div >
+            <h3>Videojuegos</h3>
+            <ul >
+              <li>RPG</li>
+              <li>JRPG</li>
+              <li>Survival Horrors</li>
+              <li>Sandbox</li>
+              <li>MOBAS</li>
+              <li>FPS</li>
+              
+            </ul>
+          </div>
+          <div >
+            <h3>Deportes</h3>
+            <ul >
+              <li>Basketball</li>
+              <li>Volleyball</li>
+              
+              
+            </ul>
+          </div>
+      </div>
+
+
+
+        
+      </div>
+     
+<div ><a href="#top" id="top-link">INICIO</a></div>
+
+</body>
+</html>
