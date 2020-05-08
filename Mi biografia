@@ -3,7 +3,8 @@
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
 <title>Mi biografia</title>
 
-
+ <link rel="manifest" href="manifest.json">
+ 
 </head>
 <body 
    bgcolor="green" >
